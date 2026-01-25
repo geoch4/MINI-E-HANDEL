@@ -1,0 +1,8 @@
+Kardinalitet
+
+Customers 1 → many Orders
+Orders 1 → many OrderItems
+Products 1 → many OrderItems
+Orders 1 → many Payments 
+Products 1 → 1 Inventory 
+Products many ↔ many Categories 
